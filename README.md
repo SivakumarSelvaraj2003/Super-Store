@@ -37,3 +37,4 @@ src/
 ├── App.css             # Global premium stylesheet
 ├── index.css           # Base browser resets and typography
 └── main.jsx            # Application entry point
+
